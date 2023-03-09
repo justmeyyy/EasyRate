@@ -161,6 +161,7 @@
                 android:id="@+id/cta_btn"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
+                android:backgroundTint="#D22A26"
                 android:layout_margin="20dp"
                 android:background="@drawable/round_corners_fill_gray"
                 android:text="@string/rate"
