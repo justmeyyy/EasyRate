@@ -158,18 +158,22 @@
             </RelativeLayout>
 
          
-<com.google.android.material.button.MaterialButton
-
-android:id="@+id/cta_btn"
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/cta_btn"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:backgroundTint="@color/gray"
-
-app:cornerRadius="8dp"
+                app:cornerRadius="8dp"
                 android:layout_margin="20dp"
-                android:text="@string/rate"
-                android:textColor="@color/dim"
-                />
+                android:text="@string/rate" 
+                android:textColor="@color/dim"  
+                />                                               
+
+               
+
+                                        
+
+                
 
         </LinearLayout>
 
