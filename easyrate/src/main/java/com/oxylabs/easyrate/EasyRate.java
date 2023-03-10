@@ -150,7 +150,7 @@ public class EasyRate {
                 });
                 ctaBtn.setText(context.getResources().getText(R.string.write_feedback));
                 ctaBtn.setEnabled(true);
-                ctaBtn.setBackground(context.getResources().getDrawable(R.drawable.round_corners_fill));
+                ctaBtn.setBackgroundColor(Color.parseColor("#FFD164"));
             }
         });
 
@@ -184,7 +184,7 @@ public class EasyRate {
                 });
                 ctaBtn.setText(context.getResources().getText(R.string.write_feedback));
                 ctaBtn.setEnabled(true);
-                ctaBtn.setBackground(context.getResources().getDrawable(R.drawable.round_corners_fill));
+                ctaBtn.setBackgroundColor(Color.parseColor("#FFD164"));
             }
         });
 
@@ -219,7 +219,7 @@ public class EasyRate {
                 });
                 ctaBtn.setText(context.getResources().getText(R.string.write_feedback));
                 ctaBtn.setEnabled(true);
-                ctaBtn.setBackground(context.getResources().getDrawable(R.drawable.round_corners_fill));
+                ctaBtn.setBackgroundColor(Color.parseColor("#FFD164"));
             }
         });
 
@@ -247,7 +247,7 @@ public class EasyRate {
                 });
                 ctaBtn.setText(context.getResources().getText(R.string.rate));
                 ctaBtn.setEnabled(true);
-                ctaBtn.setBackground(context.getResources().getDrawable(R.drawable.round_corners_fill));
+                ctaBtn.setBackgroundColor(Color.parseColor("#FFD164"));
             }
         });
 
@@ -274,7 +274,7 @@ public class EasyRate {
                 });
                 ctaBtn.setText(context.getResources().getText(R.string.rate));
                 ctaBtn.setEnabled(true);
-                ctaBtn.setBackground(context.getResources().getDrawable(R.drawable.round_corners_fill));
+                ctaBtn.setBackgroundColor(Color.parseColor("#FFD164"));
             }
         });
 
